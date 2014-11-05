@@ -1,0 +1,33 @@
+{
+  "name": "webflight-leapmotion",
+  "version": "0.0.1",
+  "description": "Plugin for webflight that lets you control a drone with a Leap Motion Controller.",
+  "main": "./index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "bin": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ludviglindblom/webflight-leapmotion.git"
+  },
+  "keywords": [
+    "leapmotion",
+    "leap",
+    "AR.Drone",
+    "drone"
+  ],
+  "author": {
+    "name": "Ludvig Lindblom",
+    "email": "ludvig.lindblom@gmail/com",
+    "url": "http://iamleft.se"
+  },
+  "license": "MIT/X11",
+  "engine": {
+    "node": ">=0.4"
+  }
+}
