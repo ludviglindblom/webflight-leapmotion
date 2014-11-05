@@ -64,5 +64,5 @@
     });
   }).use('screenPosition', {scale: 0.25});
 
-  Leap.loopController.setBackground(false);
+  Leap.loopController.setBackground(true);
 }(window, document, jQuery));
